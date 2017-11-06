@@ -1,5 +1,9 @@
 CHANGELOG
 
+v3.0.1 (2017-11-06)
+-------------------
+* Fix for apache2 recipe mod_php5 now being named mod_php 
+
 v3.0.0 (2015-02-24)
 -------------------
 * Cookbook updated to support the MySQL 6.0 community cookbook
